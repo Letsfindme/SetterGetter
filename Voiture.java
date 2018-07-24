@@ -123,14 +123,9 @@ public class Voiture {
 	}
 
 
-	public int getNbres_de_roues() {
-		return nbres_de_roues;
-	}
+	
 
 
-	public void setNbres_de_roues(int nbres_de_roues) {
-		this.nbres_de_roues = nbres_de_roues;
-	}
 
 
 	public String getEnergie() {
