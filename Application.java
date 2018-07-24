@@ -14,7 +14,7 @@ public class Application {
 		voitureTesla.setCouleur("gris");
 		voitureTesla.setAnnee_fabrication(2017);
 		voitureTesla.energie="electrique";
-		voitureTesla.kilométrage=20;
+		voitureTesla.setKilométrage(20);
 		voitureTesla.marque="teslla";
 		voitureTesla.modele="5s";
 		voitureTesla.nbre_de_places=12;

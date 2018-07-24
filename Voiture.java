@@ -16,7 +16,6 @@ public class Voiture {
 	String marque;
 	String modele;
 	String plaque_dimmatriculation;
-	int nbres_de_roues;
 	String energie;
 	int nbre_de_places;
 	int puissance;

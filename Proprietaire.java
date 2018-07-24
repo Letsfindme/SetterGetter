@@ -9,7 +9,7 @@ public class Proprietaire {
      String prenom;
 
      String adresse;
-
+     String adresseh;
 
      double distance_parcourue;
 
