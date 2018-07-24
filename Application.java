@@ -18,7 +18,6 @@ public class Application {
 		voitureTesla.marque="teslla";
 		voitureTesla.modele="5s";
 		voitureTesla.nbre_de_places=12;
-		voitureTesla.nbres_de_roues=24;
 		voitureTesla.options="toit ouvert";
 		voitureTesla.plaque_dimmatriculation="0615636246";
 		voitureTesla.prix_carburant=0;
@@ -40,7 +39,6 @@ public class Application {
 		voitureMultiplat.marque="teslla";
 		voitureMultiplat.modele="5s";
 		voitureMultiplat.nbre_de_places=12;
-		voitureMultiplat.nbres_de_roues=4;
 		voitureMultiplat.options="toit ouvert";
 		voitureMultiplat.plaque_dimmatriculation="0615630000";
 		voitureMultiplat.prix_carburant=10;
