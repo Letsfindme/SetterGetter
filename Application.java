@@ -1,10 +1,19 @@
 
 import java.util.*;
 
-
+/** 
+ * This is the application class where values are attributed to variables 
+ * @author : Fadi NOUFAL
+ * @version 1.0
+ * 
+ *
+ */
 public class Application {
 
-  
+  /**
+   * the main where objects voitureTesla and voitureMutiplat are created
+   * @param args
+   */
 	public static void main(String[] args) {
 		
 		Voiture voitureTesla = new Voiture();
@@ -19,7 +28,7 @@ public class Application {
 		voitureTesla.modele="5s";
 		voitureTesla.nbre_de_places=12;
 		voitureTesla.options="toit ouvert";
-		voitureTesla.plaque_dimmatriculation="0615636246";
+		voitureTesla.plaque_dimmatriculation="615636246";
 		voitureTesla.prix_carburant=0;
 		voitureTesla.prix_initial=396235124;
 		voitureTesla.puissance=355;
@@ -38,9 +47,9 @@ public class Application {
 		voitureMultiplat.kilométrage=20000;
 		voitureMultiplat.marque="teslla";
 		voitureMultiplat.modele="5s";
-		voitureMultiplat.nbre_de_places=12;
+		voitureMultiplat.nbre_de_places=1;
 		voitureMultiplat.options="toit ouvert";
-		voitureMultiplat.plaque_dimmatriculation="0615630000";
+		voitureMultiplat.plaque_dimmatriculation="3615630000";
 		voitureMultiplat.prix_carburant=10;
 		voitureMultiplat.prix_initial=396234;
 		voitureMultiplat.puissance=355;

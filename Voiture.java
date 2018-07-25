@@ -1,14 +1,12 @@
-
-
 import java.util.*;
 
+/**
+ * 
+ * @author Fadi NOUFAL
+ *
+ */
 public class Voiture {
-
-
-
 	Proprietaire monsieurbidule = new Proprietaire();
-	
-	
 	String id_voiture;
 	String couleur;
 	String taille;

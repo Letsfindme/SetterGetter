@@ -1,16 +1,23 @@
 import java.util.*;
 
+
+/**
+ * this class describes the owner of the car
+ * @author Fadi NOUFAL
+ *
+ *
+ *@param nom name of the owner
+ **@param prenom surname of the owner
+ **@param adresse address of the owner
+ **@param distance estimated to be used in one year
+ *
+ */
+
 public class Proprietaire {
-
-	
-
      String nom;
-
      String prenom;
-
      String adresse;
      String adresseh;
-
      double distance_parcourue;
 
 
